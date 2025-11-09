@@ -1,0 +1,6 @@
+@Singelton.Design.Pattern_HostAddress = http://localhost:5252
+
+GET {{Singelton.Design.Pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
