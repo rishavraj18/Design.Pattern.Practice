@@ -45,7 +45,7 @@ namespace Singelton.Design.Pattern.Services
             //};
             //_cache.Set("products_list", data, options);
 
-            //Use Cases of caching
+            //Use Cases of cachingg
 
             //Use Case                     Example Duration       Notes
             //App Config Data              12 hours               Changes rarely
