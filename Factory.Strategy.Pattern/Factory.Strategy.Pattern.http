@@ -1,0 +1,6 @@
+@Factory.Strategy.Pattern_HostAddress = http://localhost:5151
+
+GET {{Factory.Strategy.Pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
