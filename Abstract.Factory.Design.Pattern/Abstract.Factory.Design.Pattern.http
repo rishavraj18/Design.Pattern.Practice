@@ -1,0 +1,6 @@
+@Abstract.Factory.Design.Pattern_HostAddress = http://localhost:5069
+
+GET {{Abstract.Factory.Design.Pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
